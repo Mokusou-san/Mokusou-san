@@ -3,7 +3,7 @@
 I'm a **Computer Engineering** 🖥️ with a passion for **hardware, embedded systems, and software development**. I love building, experimenting, and turning ideas into real projects.  
 
 ### 🏹 About Me
-- Nickname: **mokusou** — “The Tactical Builder Knight” ♞  
+- Nickname: **mokusou**  — “Silent Meditation” / “Focused Reflection” ♞
 - Strengths: Hardware tinkering, embedded systems, Arduino & circuits  
 - Learning: Python, Java, Cybersecurity, Software Development  
 - Goals: Build projects, improve programming skills, prepare for internships, and create a standout portfolio  
