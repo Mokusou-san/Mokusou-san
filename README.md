@@ -1,31 +1,29 @@
 # Hi there! 👋 I'm John Christopher (mokusou)
 
-I'm a **Computer Engineering** 🖥️ with a passion for **hardware, embedded systems, and software development**. I love building, experimenting, and turning ideas into real projects.  
+I'm a **Computer Engineer** with a focus on **hardware, embedded systems, and software development**. I like building projects, learning new skills, and improving myself continuously.  
 
-### 🏹 About Me
-- Nickname: **mokusou**  — “Silent Meditation” / “Focused Reflection” ♞
-- Strengths: Hardware tinkering, embedded systems, Arduino & circuits  
-- Learning: Python, Java, Cybersecurity, Software Development  
-- Goals: Build projects, improve programming skills, prepare for internships, and create a standout portfolio  
+### 🏹 Who am I?
+- Nickname: **mokusou** — “Silent Meditation” / “Focused Reflection” ♞  
+  I approach projects with **focus, discipline, and deep thinking**.  
 
 ### ⚡ Current Focus
-- **Embedded Systems & Robotics**: Rescue rover, DC motor controllers, sensors  
-- **Software & Cybersecurity**: Python scripting, automation, cybersecurity basics  
-- **Portfolio Building**: Uploading projects and practice code to GitHub  
+- Embedded systems & robotics (rescue rover, DC motors, sensors)  
+- Python scripting, automation, and cybersecurity basics  
+- Building a strong GitHub portfolio  
 
-### 🛠 Skills
-- **Programming:** Arduino C/C++, Java, Python (learning)  
-- **Hardware:** Microcontrollers, sensors, actuators, PCBs  
-- **Tools:** Git/GitHub, Pixhawk, QGroundControl, Sabertooth motor drivers  
+### 📂 Projects I’ve Done
+- Rescue rover with Pixhawk & motor control  
+- Arduino-based sensors and automation projects  
+- Practice code and small software tools
+- Battery system
 
-### 📚 Learning & Growth
-- Practicing algorithms, automation scripts, and small software projects  
-- Combining **hardware knowledge + software skills** for real-world projects  
-- Preparing for **J-1 internship** in the US for embedded systems and engineering  
+### 🛠 Tools I Use
+- Microcontrollers, sensors, actuators, PCBs  
+- Pixhawk, QGroundControl, DC motor drivers  
+- Git/GitHub, Arduino IDE, Java  
 
-### 💡 Fun Fact
-I like to think of myself as a **Knight on the board** — strategic, disciplined, and always ready to adapt. ♞  
+### 💻 Skills
+- Programming: Arduino C/C++, Java, Python (learning)  
+- Hardware: Embedded systems, circuits, sensors, actuators  
+- Software: Basic automation, scripting, project integration  
 
----
-
-> “Building, learning, and leveling up — one project at a time.”
